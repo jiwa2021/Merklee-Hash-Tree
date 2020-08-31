@@ -1,0 +1,1 @@
+day 3 - ny times simulation. this will contain snap shot data of day three.
